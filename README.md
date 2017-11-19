@@ -1,24 +1,7 @@
-# README
+# Mi primer aplicacion en Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Esta es una aplicacion de pinteres hecha en Rails
+[*Direccion :*](https://#)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Realizado por : Alex Cano.
+:)
