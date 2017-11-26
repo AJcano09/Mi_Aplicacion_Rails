@@ -1,11 +1,10 @@
 source 'https://rubygems.org'
-ruby '2.3.4'
+ruby '2.4.2'
 
 git_source(:github) do |repo_name|
   repo_name = "#{repo_name}/#{repo_name}" unless repo_name.include?("/")
   "https://github.com/#{repo_name}.git"
 end
-
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.4'
@@ -38,6 +37,8 @@ gem 'jquery-rails', '~> 4.1', '>= 4.1.1'
 
 #Jquery
 gem 'jquery', '~> 0.0.1'
+#device authentication solutions for rails
+gem 'devise', '~> 4.3'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
