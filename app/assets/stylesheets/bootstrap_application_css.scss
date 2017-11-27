@@ -3,12 +3,18 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:400,700');
 
 $font-family-sans-serif:"Lato", Helvetica, Arial, sans-serif;
-$brand-primary :rgba(46,204,113,1.0);
-$navbar-default-bg:rgba(41, 128, 185,0.8);
+$brand-primary :rgba(25, 107, 217, 1);
+$navbar-default-bg: rgba(25, 107, 217, 0.9);
 $navbar-default-link-color:rgba(236, 240, 241,1.0);
 $body-bg:rgba(236, 240, 241,1.0);
 $jumbotron-bg :white;
-$btn-default-color:rgba(52, 152, 219,1.0);
+/*
+$btn-default-color:rgba(135, 135, 135, 1);
+$btn-primary-color:    rgba(14, 23, 143, 1);
+$btn-success-color:rgba(8, 124, 20, 1);
+$btn-info-color:rgba(230, 128, 34, 1);
+$btn-warning-color:rgba(241, 196, 15,1.0);
+$btn-danger-color:rgba(176, 24, 8, 1);*/
 @import 'bootstrap';
 
 .center{
